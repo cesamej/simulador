@@ -1,0 +1,16 @@
+[user]
+    name = Cesar
+    email = cesamej@gmail.com
+    password = Con209C#
+[http]
+    sslVerify = false
+    proxy = 
+[https]
+    sslverify = false
+    proxy = https://github.com/cesamej/simulador.git
+[push]
+    default = simple
+[credential]
+    helper = cache --timeout=360000000
+[core]
+    autocrlf = false
