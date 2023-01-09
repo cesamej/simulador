@@ -1,0 +1,17 @@
+.containerPrincipal {
+    position: absolute;
+      left: 50%;
+      top: 10%;
+      transform: translate(-50%, -10%);
+      /* border: 1px solid rgba(131, 75, 152, 1); */
+      padding: 0px;
+      background-color: white;
+  }
+  
+  .containerSecundario{
+    text-align: center;
+  }
+  .title{
+    color : rgba(131, 75, 152, 1);
+    font-weight: bold;
+  }

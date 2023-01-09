@@ -1,0 +1,137 @@
+.labelError{
+  font-size: 14px;
+  color: #1976d2;
+  text-align: right;
+}
+.labelCondiciones{
+  font-size: 13px;
+  white-space: pre-wrap; 
+  color: #032649;
+  height: 80px;
+}
+.labelTitleBlue {
+  font-size: 24px;
+  color: #1976d2;
+  font-weight:bold;
+}
+
+.labelInstrucciones {
+  font-size: 16px;
+  color: #023568;
+  font-weight:bold;
+}
+
+.labelNotas{
+  font-size: 13px;
+  white-space: pre-wrap; 
+  color: #032649;
+}
+.labelPurple{
+  font-size: 14px;
+  color: rgb(131 75 152);
+  font: bold;
+}
+.labelBlue {
+  font-size: 14px;
+  color: #1976d2;
+  font: bold;
+}
+.labelWitheBold {
+  font-size: 15px;
+  color: #FFFF;
+  font-weight: bold;
+}
+.labelWithe {
+  font-size: 15px;
+  color: #FFFF;
+  font: bold;
+}
+
+.divPurple {
+  background: rgb(131 75 152);
+}
+
+.divPurpleLight {
+  background: rgb(222, 192, 233);
+}
+.labelVigencia{
+  font-size: 14px;
+  color: #d8170a;
+  font-weight:bold;
+}
+
+.logo {
+  width: 32%;
+}
+.invierte {
+  width: 80%;
+}
+.ondas {
+  width: 100%;
+}
+.title{
+  color : rgba(131, 75, 152, 1);
+  font-weight: bold;
+}
+
+
+.text-widget-content {
+  cursor: auto !important;
+  font-size: 14px;
+  line-height: 1;
+  text-align: left;
+  outline: 0 none;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  float: left;
+  font-family: 'Open Sans',Arial;
+}
+
+.footer-text{
+  font-size: 12px;
+  color: #3e3e3e;
+}
+.footer-p{
+  line-height: 1.2;
+}
+
+.menu-footer{
+  font-size: 16px; 
+  font-weight: bold;
+}
+
+.menu-blue{
+  color: rgba(0, 126, 180, 1)
+}
+.menu-purple{
+  color: rgba(131, 75, 152, 1)
+}
+
+.simulador{
+  background-color: rgba(248, 249, 250, 1);
+}
+
+.header{
+  background-color: rgba(225, 225, 225, 1)
+}
+
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
